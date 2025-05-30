@@ -1,0 +1,160 @@
+html {
+    font-size: clamp(0.6rem, 2vw, 1rem) !important;/*tamanho min, ajuste e max*/
+  }
+
+html, body{
+    width: 100%;
+    height: 100%;
+    margin: 0;
+}
+body{
+    font-size: 1em !important;
+}
+
+header, footer{
+    background-color: rgba(61, 155, 58, 1);
+    overflow: hidden;
+}
+
+footer{
+    position: absolute !important;
+    bottom: 0 !important;
+}
+
+button{
+    border-radius: 110em !important;
+    background-color: rgba(61, 155, 58, 1);
+    color: white;
+}
+
+.gradient-bars-main{
+    white-space: nowrap;
+    width: 25em;
+    border-radius: 20em;
+    background: linear-gradient(to top, rgba(255, 255, 255, 0.144), rgba(255, 255, 255, 0.5))
+}
+.fundo-elk-logo{
+    display: flex;
+    padding: 0.5em;
+    align-items: center;
+    background-color: white;
+    margin-left: 6em;
+    width: 7em;
+    height: 6em;
+    overflow: hidden;
+    border-radius: 7em;
+}
+  
+.fundo-elk-logo a img{
+    height:auto;
+}
+
+.fundo-ifba{
+    display: flex;
+    padding: 0.5em;
+    align-items: center;
+    background-color: white;
+    width: 5em;
+    height: 6em;
+    overflow: hidden;
+    border-radius: 7em;
+  }
+
+.navheader div{
+    border-radius: 0.2em;
+    padding: 0.5em;
+    margin-left: 2em;
+}
+.navheader div a{
+    color: white;
+    text-decoration: none ;
+}
+.navheader div:hover{
+    background-color: rgba(119, 14, 14, 0.518);
+    cursor: pointer;
+}
+.i{
+    justify-content: center;
+    list-style: none;
+    display: flex;
+    gap: 0.7rem;
+}
+.i li{
+    white-space: nowrap;
+}
+
+.fundologin{
+    flex-direction: column;
+    border-radius: 2em;
+    background-color:rgba(198, 198, 198, 0.42) !important;
+    align-items: center;
+    justify-content: center;
+    width: 30rem !important;
+    box-shadow: 0px 6px 4px -2px rgba(0, 0, 0, 0.5);
+    text-align: center;
+  }
+
+.fundologin img{
+    display: flex;
+    width: 20em;
+    height: 10em;
+    margin-bottom: 30px;
+}
+
+.fundologin input, .inputformat{
+    border: none;
+    padding: 0.8em;
+    border-radius: 3em;
+    box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.2);
+    width: 17em !important;
+    margin-bottom: 1em;
+}
+
+.alinhar{
+    margin-left: 2em;
+    margin-right: 2em;
+    text-align: justify;
+}
+
+.botaovisual button{
+    display: flex;
+    background-color: transparent !important;
+    color: black;
+    justify-content:space-between;
+    width: 13.5em;
+    align-items: center;
+}
+
+.comentario{
+    display: flex;
+    background-color: rgba(224, 224, 224, 1);
+    border-radius: 3em;
+    flex-direction: column;
+    padding: 1em 3em;
+    margin: 2em;
+}
+.comentario .linha{
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row;
+    align-items: center;
+    padding: 1em;
+}
+.comentario img{
+    width: 3em;
+}
+
+
+.comentariomaior{
+    display: flex;
+    background-color: rgba(224, 224, 224, 1);
+    border-radius: 3em;
+    flex-direction: column;
+}
+.comentariomaior .linha{
+    display: flex;
+    flex-direction: row;
+}
+.comentariomaior img{
+    width: 6em;
+}
