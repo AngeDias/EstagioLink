@@ -19,8 +19,15 @@ Sistema web completo com objetivo de **simplificar o processo de estágios** no 
 ## 🖼️ Telas do Sistema
 Telas Principais
 <p align="center">
-  <img src="IMAGENS/main-aluno-page.png" alt="Tela Principal para Alunos">
-  <img src="IMAGENS/main-empresa-page.png" alt="Tela Principal para Empresas">
+  <img src="IMAGENS/main-aluno-page.png" alt="Tela Principal para Alunos" title="Tela Principal para Alunos">
+  <img src="IMAGENS/aluno-page.png" alt="Tela de pesquisa para Alunos" title="Tela de pesquisa para Alunos">
+  <img src="IMAGENS/visu-empresa-page.png" alt="Tela de visualização de Vaga" title="Tela de visualização de Vaga">
+  <img src="IMAGENS/avaliacoes.png" alt="Tela de avaliações" title="Tela de avaliações">
+  <img src="IMAGENS/relato-page.png" alt="Tela de relato anônimo" title="Tela de relato anônimo">
+  <img src="IMAGENS/avaliar.png" alt="Tela para avaliar empresas" title="Tela para avaliar empresas">
+  <img src="IMAGENS/main-empresa-page.png" alt="Tela Principal para Empresas" title="Tela Principal para Empresas">
+  <img src="IMAGENS/curriculo-page.png" alt="Tela de visualização de Curriculo" title="Tela de visualização de Curriculo">
+  <img src="IMAGENS/empresa-page.png" alt="Tela de pesquisa para Empresa" title="Tela de pesquisa para Empresa">
 </p>
 
 
